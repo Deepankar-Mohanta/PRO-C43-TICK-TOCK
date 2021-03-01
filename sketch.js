@@ -1,7 +1,7 @@
 let myFont;
 
 function preload(){
-  myFont=loadFont('code/DIGITALDREAM.ttf')
+  myFont=loadFont('DIGITALDREAM.ttf')
 }
 
 function setup() {
